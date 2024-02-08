@@ -1,0 +1,21 @@
+#song{
+    display: flex;  
+  flex-wrap: wrap;
+  gap: 60px;
+}
+.root{
+   margin: 0px 10px 0px 10px;
+   background-image: url("https://st2.depositphotos.com/1167801/7716/i/450/depositphotos_77161415-stock-photo-blank-chalkboard.jpg");
+}
+.button{
+    margin-top: 10px;
+}
+h1{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+label{
+    font-weight: 400;
+    font-size: x-large;
+    color: white;
+}
